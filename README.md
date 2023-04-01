@@ -7,4 +7,6 @@
 
 ![](https://github.com/AadityaUoHyd/springboot3security_with_jwt_microservices_swiggyDemo/blob/master/Microservices%20Security%20Using%20JWT%20_%20Spring%20Cloud%20Gateway%20_%20JavaTechie%20-%20YouTube%20-%20Brave%2002-04-2023%2000_07_35.png)
 
+![](https://github.com/AadityaUoHyd/springboot3security_with_jwt_microservices_swiggyDemo/blob/master/eureka.jpg)
+
 - Go inside folder in order to find, more details.
